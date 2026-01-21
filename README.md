@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mateuscorreiaportela">LinkedIn</a> •
-  <a href="mailto:mateusportela83@gmail.com">Email</a> •
+  <a href="https://www.instagram.com/eumatteusz/">Instagram</a> •
   <a href="https://github.com/MateusCorreiaPortela">GitHub</a>
 </p>
 
